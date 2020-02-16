@@ -65,3 +65,5 @@ site maps are diagrams of the pages that will be used to structure the site.
   1. create a model of the web page &store it 
   1. use a rendering engine to show the page 
   
+  **Linking to a JS from HTML page**
+  <script src = "file name"> </script>
