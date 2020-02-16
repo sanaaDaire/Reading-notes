@@ -27,6 +27,28 @@ HTML page are text documents and uses tags & referred to as elements
 1. adding information about web page using the <meta>
 1. adding character (copy right symbol)
 
+## Process and Design
+
+**Tips for building and designing a website:**
+
+-When building a website, it's very important to consider the target audience
+and design the website according to the information you have about them
+
+-Organize the information you want to present into sections or pages
+
+-Use a "site map" to help design your website.
+site maps are diagrams of the pages that will be used to structure the site.
+
+
+## Wireframes:
+- A wireframe is a simple sketch of the key information that needs to go on each page of a site
+
+- Wireframe involves sketching or shading areas where each element of the page will go
+
+- By creating a wireframe you can ensure that all of the information that needs to be on a page is included.
+
+
+
   ## JavaScript 
   **what is script?**
   a series of instructions taht the computer can follow in 
