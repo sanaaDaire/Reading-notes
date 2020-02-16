@@ -5,7 +5,7 @@
 
 |Read      |    url
 |------------------------
-|Read01    |   (link) [https://sanaadaire.github.io/Reading-notes/class-01]
+|Read01    |   [https://sanaadaire.github.io/Reading-notes/class-01] (link)
 |------------------------
 |Read02    |    [] ()        
 |------------------------
