@@ -27,10 +27,6 @@ HTML page are text documents and uses tags & referred to as elements
 1. adding information about web page using the <meta>
 1. adding character (copy right symbol)
 
-## Layout 
-**Websites often display content in multiple columns**
-n
- 
   ## JavaScript 
   **what is script?**
   a series of instructions taht the computer can follow in 
@@ -43,7 +39,6 @@ n
   - methods **retrieve/update** properties.
   
   **How browser sees a web page ?**
-  
   1. receive a page as HTML code 
   1. create a model of the web page &store it 
   1. use a rendering engine to show the page 
