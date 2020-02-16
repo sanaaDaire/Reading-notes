@@ -29,12 +29,7 @@ HTML page are text documents and uses tags & referred to as elements
 
 ## Layout 
 **Websites often display content in multiple columns**
-<header> - Defines a header for a document or a section
-<nav> - Defines a container for navigation links
-<section> - Defines a section in a document
-<article> - Defines an independent self-contained article
-<aside> - Defines content aside from the content (like a sidebar)
-<footer> - Defines a footer for a document or a section
+n
  
   ## JavaScript 
   **what is script?**
