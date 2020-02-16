@@ -1,11 +1,13 @@
 # Code 201 Reading-notes
 
-**This website consiste of all requirments in course 201-project such as Assignments and repositorys url in GitHub :-
+**This website consiste of all requirments in course 201-project such as** 
+- Assignments
+- repositorys url in GitHub 
 
 
-|Read      |    url
+|*Read      |    *url
 |------------------------
-|Read01    |   (link) [https://sanaadaire.github.io/Reading-notes/class-01]
+|Read01    |[https://sanaadaire.github.io/Reading-notes/class-01](link)  
 |------------------------
 |Read02    |    [] ()        
 |------------------------
