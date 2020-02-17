@@ -8,7 +8,7 @@
 
 |Read      |    url
 |------------------------
-|Read01    | [Read 01] (https://sanaadaire.github.io/Reading-notes/class-01)  
+|Read01    | [click] (https://sanaadaire.github.io/Reading-notes/class-01)  
 |------------------------
 |Read02    |    [] ()        
 |------------------------
