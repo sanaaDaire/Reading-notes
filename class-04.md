@@ -25,7 +25,6 @@ Secondly, i want to talk about *LAYOUT* layout is used to make the web pages loo
 
 1. Footer: The <footer> tag is used to set the footer in web pages.
 
-
 **JS**
 *function* A function definition consists of:
 
