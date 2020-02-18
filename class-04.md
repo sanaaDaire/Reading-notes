@@ -8,7 +8,7 @@ firstly , i want to talk about *LINKS* A link (short for hyperlink) is an HTML o
 
 1. Text Link: <a href="    LINK    ">Link Name</a>
 
-1. Image Link: <a href="  LINK   "><img src="     .jpg" alt="      "></a>.
+1. Image Link: <a href="  LINK   "><img src="     .jpg" </a>.
 
 *NOTE:*  - The "a" in the <a> tag stands for "anchor,"
          - The "href" within an <a> stands for "hypertext reference."
@@ -26,3 +26,20 @@ Secondly, i want to talk about *LAYOUT* layout is used to make the web pages loo
 1. Footer: The <footer> tag is used to set the footer in web pages.
 
 
+**JS**
+*function* A function definition consists of:
+
+1. The name of the function.
+1. A list of parameters to the function.
+1. The JavaScript statements that define the function
+
+*Methods* are actions that can be performed on objects.
+
+ method is a property containing a function definition.
+ 
+ *Objects*
+ 1. Objects can also have methods.
+
+ 1. Methods are actions that can be performed on objects.
+
+ 1. Methods are stored in properties as function definitions.
