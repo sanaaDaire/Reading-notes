@@ -9,7 +9,7 @@
 
 *ELEMENTS* elements like <b> and <i> for formatting output, like bold or italic text, Formatting elements were designed to display special
   
-**Types of Type:**
+**Types of Text:**
 
 1. Bold text
 1. Important text
