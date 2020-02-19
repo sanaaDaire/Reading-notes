@@ -11,13 +11,13 @@
   
 **Types of Type:**
 
-1. <b> - Bold text
-1. <strong> - Important text
-1. <i> - Italic text
-1. <em> - Emphasized text
-1. <small> - Small text
-1. <del> - Deleted text
-1. <ins> - Inserted text
-1. <sub> - Subscript text
-1. <sup> - Superscript text
+1. Bold text
+1. Important text
+1. Italic text
+1. Emphasized text
+1. Small text
+1. Deleted text
+1. Inserted text
+1. Subscript text
+1. Superscript text
   
