@@ -2,6 +2,12 @@
 
 **Firstly** 
 i read an article talking about Domin and whats the problems in understanding the domin and they say that the programming is easy easy if i learn and know the domin .
+1. Learning a new technology
+1. Naming things
+1. Testing your code
+1. Debugging
+1. Fixing bugs
+1. Making software maintainable
 
 **Secondly**
 Object literal property values can be of any data type, including array literals, functions, and nested object literals .
