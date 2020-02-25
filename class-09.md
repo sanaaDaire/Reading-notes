@@ -2,7 +2,7 @@
 
 **HTML**
 
-*FORM*  form element defines a form that is used to collect user input like : <form> </form> are different types of input elements, like: text fields, checkboxes, radio buttons, submit buttons, for example <input type="text"> defines a single-line input field for text inputt
+*FORM*  form element defines a form that is used to collect user input like : <form> </form> are different types of input elements, like: text fields, checkboxes, radio buttons, submit buttons, for example (input type="text") defines a single-line input field for text inputt
 About The label element also help users who have difficulty clicking on very small regions because when the user clicks the text within the <label> element, it toggles the radio button/checkbox.
   
   *LISTS* 
@@ -10,6 +10,7 @@ About The label element also help users who have difficulty clicking on very sma
   2. order list := The type attribute of the <ol> tag.
   
   *TABELS*
+  
 An HTML table is defined with the <table> tag.
 Each table row is defined with the <tr> tag. A table header is defined with the <th> tag. By default, table headings are bold and centered. A table data/cell is defined with the <td> tag.
   
